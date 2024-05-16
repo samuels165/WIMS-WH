@@ -1,0 +1,212 @@
+[
+  {
+    "id": "0ebd53c3-bd2c-4c8a-af62-1024fad9faaa",
+    "warehouseId": "0ebd53c3-bd2c-4c8a-af62-1024fad9faaa",
+    "warehouseName": "Green Gardens Warehouse",
+    "warehouseCountry": "United States",
+    "warehouseCity": "Los Angeles",
+    "warehousePostalCode": "90001",
+    "warehouseProducts": [
+      {
+        "id": "4b7d824e-3b44-41e2-ad60-61063df17802",
+        "productName": "Garden Shovel",
+        "productDescription": "Sturdy shovel for digging and planting in your garden.",
+        "price": 19.99,
+        "quantity": 100,
+        "createdAt": "2024-04-29T18:12:55.6716291Z",
+        "categoryId": "9a6f7108-1907-49ed-a5d3-accdf86ca4a3"
+      },
+      {
+        "id": "8ccee572-f1af-4d1d-b2a3-6f4d762b9c98",
+        "productName": "Floral Watering Can",
+        "productDescription": "Beautiful watering can adorned with floral patterns.",
+        "price": 14.99,
+        "quantity": 50,
+        "createdAt": "2024-04-29T18:12:55.6752428Z",
+        "categoryId": "9a6f7108-1907-49ed-a5d3-accdf86ca4a3"
+      },
+      {
+        "id": "61576d74-a419-45d9-9678-0b1773331916",
+        "productName": "Garden Gloves",
+        "productDescription": "Comfortable gloves for protecting your hands while gardening.",
+        "price": 9.99,
+        "quantity": 200,
+        "createdAt": "2024-04-29T18:12:55.6752577Z",
+        "categoryId": "9a6f7108-1907-49ed-a5d3-accdf86ca4a3"
+      },
+      {
+        "id": "dbee9fb1-d0c4-4d8b-ba88-9abb9960cd9b",
+        "productName": "Solar-Powered Garden Lights",
+        "productDescription": "Eco-friendly lights to illuminate your garden at night.",
+        "price": 24.99,
+        "quantity": 30,
+        "createdAt": "2024-04-29T18:12:55.6752632Z",
+        "categoryId": "9a6f7108-1907-49ed-a5d3-accdf86ca4a3"
+      },
+      {
+        "id": "7225a7af-1a5c-4f40-982c-9379b5af28a9",
+        "productName": "Kitchen Knife Set",
+        "productDescription": "High-quality stainless steel knives for all your kitchen needs.",
+        "price": 49.99,
+        "quantity": 50,
+        "createdAt": "2024-04-29T18:12:55.6752821Z",
+        "categoryId": "f551c98b-76fa-4e76-bf81-7906f186d0aa"
+      },
+      {
+        "id": "0bf44a0c-7c23-48e8-830a-23ed1aafffb9",
+        "productName": "Non-Stick Frying Pan",
+        "productDescription": "Durable frying pan with a non-stick surface for easy cooking.",
+        "price": 29.99,
+        "quantity": 100,
+        "createdAt": "2024-04-29T18:12:55.6752889Z",
+        "categoryId": "f551c98b-76fa-4e76-bf81-7906f186d0aa"
+      },
+      {
+        "id": "a5760639-6289-4650-a27a-231f7dc3b1fa",
+        "productName": "Kitchen Utensil Set",
+        "productDescription": "Complete set of cooking utensils for your kitchen.",
+        "price": 39.99,
+        "quantity": 75,
+        "createdAt": "2024-04-29T18:12:55.675293Z",
+        "categoryId": "f551c98b-76fa-4e76-bf81-7906f186d0aa"
+      },
+      {
+        "id": "1d965632-e6ad-4cfc-9880-36d28a2989af",
+        "productName": "Blender",
+        "productDescription": "Powerful blender for making smoothies, soups, and more.",
+        "price": 69.99,
+        "quantity": 30,
+        "createdAt": "2024-04-29T18:12:55.6752986Z",
+        "categoryId": "f551c98b-76fa-4e76-bf81-7906f186d0aa"
+      }
+    ]
+  },
+  {
+    "id": "0ebb4032-d1e1-47b8-950e-03309eb30dfa",
+    "warehouseId": "0ebb4032-d1e1-47b8-950e-03309eb30dfa",
+    "warehouseName": "Outdoorsy Warehouse",
+    "warehouseCountry": "United States",
+    "warehouseCity": "Denver",
+    "warehousePostalCode": "80202",
+    "warehouseProducts": [
+      {
+        "id": "c4028c2f-9ff7-48af-841e-c7faafafccd1",
+        "productName": "Fashionable Sunglasses",
+        "productDescription": "Stylish sunglasses to protect your eyes outdoors.",
+        "price": 29.99,
+        "quantity": 50,
+        "createdAt": "2024-04-29T18:13:15.7276832Z",
+        "categoryId": "e95f8ade-aac9-4f36-bec5-d1b828a079ae"
+      },
+      {
+        "id": "a7c009fc-25c7-4921-8aba-33896066ee35",
+        "productName": "Leather Wallet",
+        "productDescription": "Classic leather wallet with multiple compartments.",
+        "price": 49.99,
+        "quantity": 100,
+        "createdAt": "2024-04-29T18:13:15.7277042Z",
+        "categoryId": "e95f8ade-aac9-4f36-bec5-d1b828a079ae"
+      },
+      {
+        "id": "5ae97f5f-5b6e-472c-9391-30b65f80c197",
+        "productName": "Phone Case",
+        "productDescription": "Protective phone case with a sleek design.",
+        "price": 14.99,
+        "quantity": 150,
+        "createdAt": "2024-04-29T18:13:15.7277158Z",
+        "categoryId": "e95f8ade-aac9-4f36-bec5-d1b828a079ae"
+      },
+      {
+        "id": "f5aaa15e-5f6a-47c1-89c7-5bc9c6dcb3ec",
+        "productName": "Stylish Watch",
+        "productDescription": "Elegant watch to complement your accessories.",
+        "price": 99.99,
+        "quantity": 50,
+        "createdAt": "2024-04-29T18:13:15.7277203Z",
+        "categoryId": "e95f8ade-aac9-4f36-bec5-d1b828a079ae"
+      },
+      {
+        "id": "ee01ea39-99d5-425e-a0ae-fab8fbc40673",
+        "productName": "Outdoor Folding Chair",
+        "productDescription": "Portable chair for camping, picnics, and outdoor events.",
+        "price": 34.99,
+        "quantity": 50,
+        "createdAt": "2024-04-29T18:13:15.7277281Z",
+        "categoryId": "9357c70c-1d5d-4499-abb3-156c70661fdb"
+      },
+      {
+        "id": "11422381-7076-4f74-9914-844d8f271cfd",
+        "productName": "Hiking Boots",
+        "productDescription": "Sturdy boots with excellent grip for hiking adventures.",
+        "price": 89.99,
+        "quantity": 40,
+        "createdAt": "2024-04-29T18:13:15.7277356Z",
+        "categoryId": "9357c70c-1d5d-4499-abb3-156c70661fdb"
+      },
+      {
+        "id": "a5e787c6-c1b8-4e40-8e11-defe9544a505",
+        "productName": "Camping Tent",
+        "productDescription": "Spacious tent for camping trips with family and friends.",
+        "price": 149.99,
+        "quantity": 20,
+        "createdAt": "2024-04-29T18:13:15.7277413Z",
+        "categoryId": "9357c70c-1d5d-4499-abb3-156c70661fdb"
+      }
+    ]
+  },
+  {
+    "id": "1ce2a193-c1b5-4bdd-b6bc-76c7ba8a0e04",
+    "warehouseId": "1ce2a193-c1b5-4bdd-b6bc-76c7ba8a0e04",
+    "warehouseName": "Home Decor Warehouse",
+    "warehouseCountry": "United States",
+    "warehouseCity": "New York",
+    "warehousePostalCode": "10001",
+    "warehouseProducts": [
+      {
+        "id": "ab201f98-edc9-45a6-a49b-13b3c4539d85",
+        "productName": "Decorative Throw Pillows",
+        "productDescription": "Soft and stylish throw pillows to enhance your home decor.",
+        "price": 19.99,
+        "quantity": 50,
+        "createdAt": "2024-04-29T18:13:27.1556889Z",
+        "categoryId": "94051b97-2f8f-4059-81ee-4c992d424995"
+      },
+      {
+        "id": "205f675d-9b8b-4497-af8a-dbef98327002",
+        "productName": "Wall Art Prints",
+        "productDescription": "Beautiful prints to add color and personality to your walls.",
+        "price": 29.99,
+        "quantity": 30,
+        "createdAt": "2024-04-29T18:13:27.1557072Z",
+        "categoryId": "94051b97-2f8f-4059-81ee-4c992d424995"
+      },
+      {
+        "id": "181d6f2b-a936-4c51-a91c-efd73f69093a",
+        "productName": "Decorative Vase",
+        "productDescription": "Elegant vase to display flowers or as a standalone decor piece.",
+        "price": 24.99,
+        "quantity": 25,
+        "createdAt": "2024-04-29T18:13:27.1557112Z",
+        "categoryId": "94051b97-2f8f-4059-81ee-4c992d424995"
+      },
+      {
+        "id": "1f4b1a7a-175a-4126-baf9-2e5a9e50348a",
+        "productName": "Faux Fur Rug",
+        "productDescription": "Luxurious faux fur rug to add warmth and texture to your space.",
+        "price": 49.99,
+        "quantity": 20,
+        "createdAt": "2024-04-29T18:13:27.1557407Z",
+        "categoryId": "94051b97-2f8f-4059-81ee-4c992d424995"
+      },
+      {
+        "id": "45e9d1ec-0ea3-4589-9067-192cde326973",
+        "productName": "Scented Candles",
+        "productDescription": "Aromatic candles to create a cozy atmosphere in your home.",
+        "price": 9.99,
+        "quantity": 100,
+        "createdAt": "2024-04-29T18:13:27.1557907Z",
+        "categoryId": "94051b97-2f8f-4059-81ee-4c992d424995"
+      }
+    ]
+  }
+]
